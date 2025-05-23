@@ -16,41 +16,27 @@ Enjoy getting to know me through career counselling!
 
 <h2>Screenshots:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/a/1DTlXaI)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="[https://i.imgur.com/tcTyMUE.png](https://imgur.com/a/1DTlXaI)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Career Counselling Results: <br/>
+![careerrr](https://github.com/user-attachments/assets/1bed9815-6866-4ec8-b982-81fe5dde57f4)
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<br />
+<br></br>
+
+Career Counselling Results: <br/>
+![careerrrr](https://github.com/user-attachments/assets/c9450213-18f6-42f9-9a89-820e99ac8307)
+
+<br />
+<br></br>
+
+Career Counselling Results: <br/>
+![careerrrrr](https://github.com/user-attachments/assets/c2982afd-636e-4a52-91ad-fb6892fbdf10)
+
+<br />
+<br></br>
+
+Career Counselling Results Summary: <br/>
+
+![career](https://github.com/user-attachments/assets/3a49e50d-a226-4a0a-a03b-503e2981e647)
+
+<br />
+<br></br>
