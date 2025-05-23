@@ -1,16 +1,18 @@
 <h1>Career Counselling</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This Repository consists of my personal experience using "STAR" techniques and the career counselling I received for my career path through online platforms offering tests. As you scroll down, you will 
+come across my "star" breakdown and screenshots serving as evidence of taking the online tests as well as the results i received. 
+Enjoy getting to know me through career counselling!
 <br />
 
 
 <h2>Reflection: Star Technique</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-- <b>Diskpart</b>
-- <b>Diskpart</b>
+- <b>S</b> – Situation: I attended a career counselling session offered by my college.
+- <b>T</b> – Task: To find out which careers suit my interests and skills.
+- <b>A</b> – Action: Completed a Holland Code assessment and discussed the results with a counsellor.</b>
+- <b>R</b> – Result: I discovered that I am best suited for careers in social and investigative fields, and I am now considering psychology or social work.</b>
 
 <h2>Screenshots:</h2>
 
