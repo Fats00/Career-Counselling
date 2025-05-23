@@ -2,17 +2,17 @@
 
 <h2>Description</h2>
 This Repository consists of my personal experience using "STAR" techniques and the career counselling I received for my career path through online platforms offering tests. As you scroll down, you will 
-come across my "star" breakdown and screenshots serving as evidence of taking the online tests as well as the results i received. 
+come across my "STAR" breakdown and screenshots serving as evidence of taking the online tests as well as the results I received. 
 Enjoy getting to know me through career counselling!
 <br />
 
 
 <h2>Reflection: Star Technique</h2>
 
-- <b>S</b> – Situation: I attended a career counselling session offered by my college.
-- <b>T</b> – Task: To find out which careers suit my interests and skills.
-- <b>A</b> – Action: Completed a Holland Code assessment and discussed the results with a counsellor.</b>
-- <b>R</b> – Result: I discovered that I am best suited for careers in social and investigative fields, and I am now considering psychology or social work.</b>
+- <b>S – Situation:</b> I took an online career counselling assessment.
+- <b>T – Task:</b> To find out which careers suit my interests and skills.
+- <b>A – Action:</b> Completed an assessment and received my results.</b>
+- <b>R – Result:</b> I discovered that I am best suited for careers in investigative fields and solving complex problems in technical companies.</b>
 
 <h2>Screenshots:</h2>
 
